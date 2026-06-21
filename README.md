@@ -1,7 +1,7 @@
 # Arch Linux Dotfiles
 My Arch Linux Hyprland dotfiles
 
-## Requirements
+## Basic Requirements
 
 Ensure the following are installed on local system (in shell, `$`):
 
