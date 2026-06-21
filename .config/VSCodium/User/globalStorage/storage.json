@@ -1,0 +1,111 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "3e2b81a6890d0b862b58753216727cceda14ee53611c19cd4a8f85cdfdad8761",
+    "telemetry.devDeviceId": "e0076f10-e547-4d56-b5ac-3a3c1e58851c",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/linsylon/.config/waybar"
+            },
+            {
+                "folderUri": "file:///home/linsylon/.config"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/linsylon/.config/hypr": "__default__profile__",
+            "file:///home/linsylon/.config/waybar": "__default__profile__",
+            "file:///etc/udev/rules.d": "__default__profile__",
+            "file:///home/linsylon": "__default__profile__",
+            "file:///home/linsylon/.config/VSCodium": "__default__profile__",
+            "file:///home/linsylon/.config": "__default__profile__",
+            "file:///home/linsylon/Documents/hdl/test/fullAdder": "__default__profile__",
+            "file:///home/linsylon/Documents/hdl/test/halfAdder": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#272822",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#272822",
+            "editorBackground": "#272822",
+            "titleBarBackground": "#1e1f1c",
+            "activityBarBackground": "#272822",
+            "sideBarBackground": "#1e1f1c",
+            "statusBarBackground": "#414339",
+            "statusBarNoFolderBackground": "#414339"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/linsylon/.config",
+            "backupPath": "/home/linsylon/.config/VSCodium/Backups/bc847d6d175469c65ce6181024959b56",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 940,
+                "height": 1124
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "1896d9ae4bbc3211b85890e5f398f74d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "c0001fd3ccd732e6c884f16797a6e6ee": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a11db6a88d1241670c6d4cf147b829bd": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "37ee162587959fc2a19cc0f54e63faf7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "dab3113d62891de83ac5b9cffe0593b9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d585ae577d5fd0666ffdc9fecef7707a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "8b95e278ab8adc8687873daaf684f951": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "24c4abcf1f6c33b1477100b48d9ec5c1": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

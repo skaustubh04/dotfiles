@@ -1,0 +1,12 @@
+require("modules.monitors")
+require("modules.binds")
+require("modules.autostart")
+require("modules.env")
+require("modules.decor")
+require("modules.layout")
+require("modules.misc")
+require("modules.input")
+require("modules.window_rules")
+
+-- require("modules.perms")
+-- require("modules.unused_window_rules")

@@ -1,0 +1,142 @@
+{
+    "logo": {
+        "type": "builtin",
+        "height": 15,
+        "width": 30,
+        "padding": {
+            "top": 5,
+            "left": 3
+        }
+    },
+    "modules": [
+        "break",
+        {
+            "type": "custom",
+            "format": "\u001b[90m┌────────────────────────Hardware─────────────────────────┐"
+        },
+        {
+            "type": "host",
+            "key": "󰌢  PC",
+            "keyColor": "#EBD4A2"
+        },
+        {
+            "type": "cpu",
+            "key": "│ ├󰻠 ",
+            "keyColor": "#EBD4A2"
+        },
+        {
+            "type": "gpu",
+            "key": "│ ├󰍹 ",
+            "keyColor": "#EBD4A2"
+        },
+        {
+            "type": "memory",
+            "key": "│ ├󰑭 ",
+            "keyColor": "#EBD4A2"
+        },
+        {
+            "type": "disk",
+            "key": "└ └󰋊 ",
+            "keyColor": "#EBD4A2"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[90m└─────────────────────────────────────────────────────────┘"
+        },
+        "break",
+        {
+            "type": "custom",
+            "format": "\u001b[90m┌────────────────────────Software─────────────────────────┐"
+        },
+        {
+            "type": "os",
+            "key": "  OS",
+            "keyColor": "#EEB38C"
+        },
+        {
+            "type": "kernel",
+            "key": "│ ├󰌽 ",
+            "keyColor": "#EEB38C"
+        },
+        {
+            "type": "bios",
+            "key": "│ ├󰖡 ",
+            "keyColor": "#EEB38C"
+        },
+        {
+            "type": "packages",
+            "key": "│ ├󰏗 ",
+            "keyColor": "#EEB38C"
+        },
+        {
+            "type": "shell",
+            "key": "└ └󰞷 ",
+            "keyColor": "#EEB38C"
+        },
+        "break",
+        {
+            "type": "de",
+            "key": "󰧨  DE",
+            "keyColor": "#DF8142"
+        },
+        {
+            "type": "lm",
+            "key": "│ ├󰍁 ",
+            "keyColor": "#DF8142"
+        },
+        {
+            "type": "wm",
+            "key": "│ ├󱂬 ",
+            "keyColor": "#DF8142"
+        },
+        {
+            "type": "wmtheme",
+            "key": "│ ├󰉦 ",
+            "keyColor": "#DF8142"
+        },
+        {
+            "type": "terminal",
+            "key": "└ └󰆍 ",
+            "keyColor": "#DF8142"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[90m└─────────────────────────────────────────────────────────┘"
+        },
+        "break",
+        {
+            "type": "custom",
+            "format": "\u001b[90m┌────────────────────Uptime / Age / DT────────────────────┐"
+        },
+        {
+            "type": "command",
+            "key": "  ›  OS Age  ",
+            "keyColor": "magenta",
+            "text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days"
+        },
+        {
+            "type": "uptime",
+            "key": "  ›  Uptime  ",
+            "keyColor": "magenta"
+        },
+        {
+            "type": "datetime",
+            "key": "  ›  DateTime  ",
+            "keyColor": "magenta"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[90m└─────────────────────────────────────────────────────────┘"
+        },
+	{
+	    "type": "custom",
+	    "key": " "
+	},
+        {
+            "type": "custom",
+            "key": "\u001b[00m𝑩𝒆 𝒔𝒂𝒇𝒆 𝒇𝒓𝒊𝒆𝒏𝒅. 𝑫𝒐𝒏'𝒕 𝒚𝒐𝒖 𝒅𝒂𝒓𝒆 𝒈𝒐 𝒉𝒐𝒍𝒍𝒐𝒘...\n                                                                              - 𝐿𝑎𝑢𝑟𝑒𝑛𝑡𝑖𝑢𝑠                                                                                                                                                                                                                                                     "
+        },
+	"break"
+    ]
+}
+
