@@ -2,7 +2,16 @@ File is added for convenient preview of all images
 
 ### arch.txt
 
-![arch_logo](arch.txt)
+          .
+         / \
+        /   \
+       /\    \
+      /       \
+     /         \
+    /    .-.    \
+   /    |   |   _\
+  /   _.'   '._   \
+ /_.-'         '-._\
 
 ### ds_bonfire.gif
 
