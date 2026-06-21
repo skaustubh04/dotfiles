@@ -1,0 +1,38 @@
+set selection-clipboard clipboard
+set recolor-lightcolor "rgba(0, 0, 0, 0)"
+set recolor-darkcolor "rgba(255, 255, 255, 1)"
+map i recolor
+set recolor true
+set adjust-open "best"
+map j feedkeys "<C-Down>"
+map k feedkeys "<C-Up>"
+set pages-per-row 1
+
+unmap f
+map f toggle_fullscreen
+map [fullscreen] f toggle_fullscreen
+map r reload
+
+map b toggle_page_mode # Toggle dual page mode
+
+unmap u # unmaps u and d for default full-up/down scroll
+unmap d
+map u scroll full-up
+map n scroll full-down
+
+# stop at page boundries
+set scroll-page-aware "true"
+set scroll-full-overlap 0.01
+set scroll-step 50
+
+# zoom settings
+map <C-i> zoom in
+map <C-o> zoom out
+set zoom-min 5
+set guioptions ""
+
+set statusbar-bg                "#073642" # base02
+set statusbar-fg                "#93a1a1" # base1
+
+set smooth-scroll "true"
+
