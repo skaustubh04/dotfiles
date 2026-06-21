@@ -38,5 +38,5 @@ stow .
 ```
 
 ## PS
-Don't forget to edit image paths in `.zshrc`.
+Don't forget to edit image paths in `.zshrc`.<br>
 The following YouTube video was used as reference: https://youtu.be/y6XCebnB9gs?si=vpPFBIVO-yilL6Lw
