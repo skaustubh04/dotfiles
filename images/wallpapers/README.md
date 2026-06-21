@@ -1,7 +1,7 @@
 File is added for convenient preview of all images
 
 ### arch.txt
-
+```
           .
          / \
         /   \
@@ -12,7 +12,7 @@ File is added for convenient preview of all images
    /    |   |   _\
   /   _.'   '._   \
  /_.-'         '-._\
-
+```
 ### ds_bonfire.gif
 
 ![ds_bonfire](ds_bonfire.gif)
